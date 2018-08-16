@@ -1,6 +1,1 @@
-hi this is nagesh 
-hi this is nagesh from banglore
-you are saposed to add date of bith in this formate and then send it back
-ok fiine i will add the date of birth and send it to you back
-30-10-1993 is my date of birth
-do this
+hi this is nagesh
